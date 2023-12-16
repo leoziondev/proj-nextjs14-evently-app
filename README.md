@@ -12,10 +12,25 @@ Shadcn-UI Button Component
 npx shadcn-ui@latest add button
 ```
 
+Shadcn-UI Sheet Component
+```
+npx shadcn-ui@latest add sheet
+```
+
+Shadcn-UI Separator Component
+```
+npx shadcn-ui@latest add separator
+```
+ 
 Uploadthing
 ```
 npm i uploadthing @uploadthing/react
 ``` 
+
+Clerk Auth
+```
+npm i @clerk/nextjs
+```
 
 ## Getting Started
 
