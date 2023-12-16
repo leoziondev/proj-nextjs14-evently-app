@@ -32,6 +32,11 @@ Clerk Auth
 npm i @clerk/nextjs
 ```
 
+Mongoose and MongoDB
+```
+npm i mongoose mongodb
+```
+
 ## Getting Started
 
 First, run the development server:
